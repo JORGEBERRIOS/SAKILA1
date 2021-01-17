@@ -1,6 +1,5 @@
 <%-- 
     Document   : listar_actores
-    Created on : 11-jul-2020, 20:23:29
     Author     : USER
 --%>
 

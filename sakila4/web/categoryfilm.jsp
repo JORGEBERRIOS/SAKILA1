@@ -1,7 +1,6 @@
 <%-- 
     Document   : categorifilm
-    Created on : 18-sep-2020, 11:26:46
-    Author     : USER
+
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
